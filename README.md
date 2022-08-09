@@ -1,8 +1,10 @@
-<h2> Opa, Manuel aqui 👋 </h2>
-<p> Sou estudante em programação e designer gráfico 👨🏼‍💻 </p>
-<p> Atualmente cursando Ciência da Computação </p>
+<h2 align="left"> Opa, Manuel aqui 👋 </h2>
+<p align="left"> Sou estudante em programação e designer gráfico 👨🏼‍💻 </p>
+<p align="left"> Atualmente cursando Ciência da Computação </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=1manuelc&color=blue" alt="Profile views"/> </p>
 
-<div align="center">
+
+<div align="left">
   <a href="https://github.com/1manuelc">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=1manuelc&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1manuelc&layout=compact&langs_count=7&theme=github_dark"/>
@@ -10,13 +12,13 @@
 
 <br>
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,py,js,html,css" />
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ps,ai,figma" />
   </a>

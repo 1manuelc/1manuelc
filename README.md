@@ -12,12 +12,14 @@
 
 <br>
 
+<h2>Dev Skills</h2>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,py,js,html,css" />
   </a>
 </p>
 
+<h2>Design Skills</h2>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ps,ai,figma" />

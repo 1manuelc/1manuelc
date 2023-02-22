@@ -1,8 +1,18 @@
-<h2 align="left"> Opa, Manuel aqui 👋 </h2>
-<p align="left"> Sou estudante em programação e designer gráfico 👨🏼‍💻 </p>
-<p align="left"> Atualmente cursando Ciência da Computação </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1manuelc&color=blue" alt="Profile views"/> </p>
+# Opa, Manuel aqui 👻💻
+### Sou estudante de Ciências da Computação e Designer Gráfico 👨🏼‍💻
 
+<a href="https://www.instagram.com/1manuelc/" alt="Instagram">
+<img src="https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&logo=Instagram&logoColor=FFFFFF"/>
+</a>
+  
+<a href="https://www.linkedin.com/in/1manuelc" alt="Linkedin">
+<img src="https://img.shields.io/badge/-Linkedin-0072b1?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF"/>
+</a>
+  
+<a href = "mailto:manuelwn21@gmail.com">
+<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
+<br><br>
 
 <div align="left">
   <a href="https://github.com/1manuelc">
@@ -12,30 +22,11 @@
 
 <br>
 
-<h2>Dev Skills</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,py,js,html,css" />
-  </a>
-</p>
-
-<h2>Design Skills</h2>
-<p align="left">
-  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,java,js,html,css&theme=dark" />
     <img src="https://skillicons.dev/icons?i=ps,ai,figma" />
   </a>
 </p>
+<br>
 
-<h2>Redes Sociais</h2>
-
-[![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![Instagram][3.2]][3] [![Telegram][4.2]][4]
-
-[1.2]: https://s4.uupload.ir/files/twitter_prkb.png
-[2.2]: https://s4.uupload.ir/files/linkedin_amwn.png
-[3.2]: https://s4.uupload.ir/files/instagram_6djz.png
-[4.2]: https://s4.uupload.ir/files/telegram_q47u.png
-
-[1]: https://twitter.com/1manuel_c
-[2]: https://www.linkedin.com/in/1manuelc/
-[3]: https://www.instagram.com/1manuelc/
-[4]: https://t.me/1manuelc

@@ -28,5 +28,3 @@
     <img src="https://skillicons.dev/icons?i=ps,ai,figma" />
   </a>
 </p>
-<br>
-

@@ -12,7 +12,7 @@
 <a href = "mailto:manuelwn21@gmail.com">
 <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
-<br><br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=1manuelc&color=blue&style=for-the-badge" alt="Profile views"/> </p>
 
 <div align="left">
   <a href="https://github.com/1manuelc">

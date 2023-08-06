@@ -16,10 +16,10 @@
     </p>
 </div>
 
-<div align="center" id="github-status>
+<div align="center">
     <a href="https://github.com/1manuelc">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=1manuelc&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&bg_color=0d1117"/>
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=1manuelc&hide_border=true&layout=compact&langs_count=7&theme=github_dark"/>
+    <img width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=1manuelc&show_icons=true&rank_icon=github&hide_border=true&theme=holi&bg_color=0d1117&include_all_commits=true&count_private=true"/>
+    <img width="35%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=1manuelc&hide_border=true&layout=compact&langs_count=6&theme=holi&bg_color=0d1117&include_all_commits=true&count_private=true"/>
 </div>
 
 <br>

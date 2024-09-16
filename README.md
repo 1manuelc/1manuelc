@@ -1,4 +1,4 @@
-# Opa, Manuel aqui 👻
+# Olá, sou o Manuel 👋🏻
 Desenvolvedor Frontend e estudante de Ciência da Computação
 
 <main>

@@ -3,8 +3,8 @@ Desenvolvedor Frontend e estudante de Ciência da Computação
 
 <main>
   <div class="stats" align="center">
-		<img height="180rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=1manuelc&show_icons=true&rank_icon=github&hide_border=true&theme=holi&bg_color=0d1117&include_all_commits=true&count_private=true"/>
-		<img height="180rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=1manuelc&hide_border=true&layout=compact&langs_count=6&theme=holi&bg_color=0d1117&include_all_commits=true&count_private=false"/>
+		<img height="180rem" src="https://github-readme-stats.vercel.app/api?username=1manuelc&show_icons=true&rank_icon=github&hide_border=true&theme=holi&bg_color=0d1117&count_private=true"/>
+		<img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1manuelc&hide_border=true&layout=compact&langs_count=6&theme=holi&bg_color=0d1117&include_all_commits=true&count_private=false"/>
   </div>
 	<div class="skills">
 		<h4>Skills</h4>
